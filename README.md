@@ -7,6 +7,7 @@ ANAlYTICS:
 ## Tableau Public Workbook
 Link to Tableau Public Workbook: [Citi Bike Analysis NYC 2019-2020](https://public.tableau.com/app/profile/mauricio.andrews/viz/CitiBikeProgram_16981091046690/GendervsAge)
 
+
 ## Project Overview
 
 As the lead analyst for the New York Citi Bike Program, I was tasked with building a set of data reports to answer critical questions about the program's utilization. The goal was to provide valuable insights to city officials for program improvement and publicity.
@@ -47,14 +48,7 @@ Subsequently, I established a Jupyter Notebook file, named "citibike.ipynb", to 
 ### Bike Maintenance Recommendations
 - Identified bikes (by ID) that were most likely due for repair or inspection based on usage patterns.
 
-## Tableau Workbook Contents
-
-- Created a Tableau Public workbook with 10 visualizations covering the phenomena mentioned above.
-- Designed 2 dashboards for a comprehensive view of the data.
-- Included a City Official Map for a geographic perspective of bike usage.
-- Composed a Story to narrate the insights derived from the data.
-
-**Insights Gained**
+## Insights Gained
 
 An evaluation of the data covering the time period from 2018 to 2020 shows a total of 1,095,641 trips made using bicycles in New York City. This represents a decrease of 4.83% over the three-year period. The observed decline in trips can be attributed to the adverse effects of the COVID-19 pandemic, including the associated shutdowns, on the usage of bicycles.
 
