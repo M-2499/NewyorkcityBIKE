@@ -11,6 +11,10 @@ Link to Tableau Public Workbook: [Citi Bike Analysis NYC 2019-2020](https://publ
 
 As the lead analyst for the New York Citi Bike Program, I was tasked with building a set of data reports to answer critical questions about the program's utilization. The goal was to provide valuable insights to city officials for program improvement and publicity.
 
+The initial stage of the project involved acquiring all the monthly CSV files, covering the period from January 2018 to December 2020, from the Citi Bike Data webpage and organizing them in a designated folder named "data". The data used in this analysis specifically pertains to the Jersey City region.
+
+Subsequently, I established a Jupyter Notebook file, named "citibike.ipynb", to systematically clean and combine all the monthly CSV files into a single CSV file, in preparation for importing into Tableau.
+
 ## Data Exploration and Phenomena
 
 ### Total Trips Recorded
